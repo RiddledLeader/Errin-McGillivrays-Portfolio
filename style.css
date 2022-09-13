@@ -23,48 +23,51 @@ h1 {
     text-align: center;
     font-weight: bold;
     color: white;
+    margin-top: .5em;
+    
 
 }
 .About{
     border: .5em solid white;
     color: black;
     background-color: transparent;
-    margin-top: -69.42em;
-    margin-left: 1em;
-    margin-right: 12em;
-    padding-right: 2em;
+    margin-top: -286.7%;
+    margin-right: 40.5%;
+}
 }
 .head{
     text-align: center;
-    margin-left: 1.3em;
+    margin-top: 5em;
     font-weight: bold;
     color: white;
     opacity: 100%;
+    margin-top: .9em;
 }
 .met {
-    width: 8.67em;
+    width: 5em;
     border-radius: 1em;
-    float: left;
-    margin-right: 5em;
-    margin-bottom: 10em;
-    position: relative;
-    top: -4.36em;
-    left: 1.6em;
+    float: center;
+    margin-bottom: 2em;
+    margin-left: 3.5em;
     opacity: 100%;
     border: ridge;
+
   }
 h3{
-    margin-left: 5em;
     text-size-adjust: 1em;
-    margin-bottom: 1em;
+    margin-bottom: .92em;
+    margin-left: 1em;
+    margin-top: -.7em;
+    padding-bottom: .95em;
 }
 .Skills{
     border: .5em solid white;
     color: white;
     text-align: center;
     background-color: transparent;
-    margin-left: 65.5em;
-    margin-right: 1em;
+    margin-left: 57.5%;
+    margin-right: -2.3%;
+    margin-bottom: 51.2%;
 
     
 }
@@ -72,41 +75,43 @@ h3{
     text-align: center;
     text-decoration: solid;
     font-weight: bold;
+    margin-top: .5em;
 
 }
 .skill1{
-    width:10em;
+    width:9em;
     height: auto;
+    margin-top: -.5em
 
 }
 .skill2{
     width:6em;
     height: auto;
-    padding-top: 1em;
+    padding-top: .5em;
 
 }
 .skill3{
     width:4.5em;
     height: auto;
-    padding-top: 1em;
+    padding-top: .5em;
 
 }
 .skill4{
     width: 7em;
     height: auto;
-    padding-bottom: 1em;
+    margin-top: -10%
 
 }
 skill5{
     width: 4em;
     height: 4em;
-    padding-top: 1em;
+    margin-top: -6%
 
 }
 skill6{
     width: 4em;
     height: auto;
-
+    margin-top: -10%;
 }
 skill7{
     width:2em;
@@ -115,6 +120,7 @@ skill7{
 skill8{
     width:4em;
     height: auto;
+    margin-top: -.5em;
 
     
 }
@@ -123,32 +129,32 @@ skill8{
     color: black;
     text-align: center;
     background-color: transparent;
-    margin-left: 1em;
-    margin-right: 12em;
+    margin-right: 40.5%;
     padding: 2em;
     margin-top: -.5em;
 }
 .Resume{
     width: 2em;  
-    height: auto; 
-    margin-left: -12em;
+    height: auto;
+    margin-left: -1em; 
+    margin-bottom: 1em;
 }
 .continue{
     text-align: center;
     color: white;
     margin-right: 7.6em;
     margin-top: -.30em;
+    margin-bottom: 1em;
 }
 .Projects{
     border: .5em solid white;
     color: white;
     text-align: center;
     background-color: transparent;
-    margin-left: 1em;
-    margin-right: 12em;
-    margin-bottom: 5em;
+    margin-right: -.05em;
+    margin-bottom: 44em;
     margin-top: -.5em;
-    padding-bottom: 15em;
+    padding-bottom: 24em;
 }
 .Project1{
     float: left;
@@ -156,16 +162,16 @@ skill8{
     border-radius: .5em;
     width: 10em;
     height: 10.2em;
-    margin-left: 4.5em;
+    margin-left: .2em;
     padding-bottom: .5em;
 }
 .Project2{
-    float: left;
+    float: right;
     border: .2em solid white;
     border-radius: .5em;
     width: 10em;
     height: 10.2em;
-    margin-left: 4.5em;
+    margin-right: .2em;
     padding-bottom: .5em;
 }
 .up{
@@ -177,8 +183,9 @@ skill8{
     border-radius: .5em;
     width: 10em;
     height: 10.2em;
-    margin-left: 4.5em;
+    margin-left: .2em;
     padding-bottom: .5em;
+    margin-top: .5em;
 }
 .Project4{
     float: right;
@@ -186,54 +193,59 @@ skill8{
     border-radius: .5em;
     width: 10em;
     height: 10.2em;
-    margin-right: 4.5em;
+    margin-right: .2em;
     padding-bottom: .5em;
+    margin-top: .5em;
 }
 
 .Contact{
     border: .5em solid white;
     color: black;
     background-color: transparent;
-    margin-left: 1em;
-    margin-right: 12em;
-    margin-top: -5.5em;
+    margin-right: -.05em;
+    margin-top: -44.5em;
     padding-bottom: 2.8em;
+    margin-bottom: 1em;
 
 }
 .woof{
     text-align: center;
-    margin-right: 5em;
-    color: white
+    float: center;
+    color: white;
+    margin-top: 1em;
+
     
 }
 .Linked{
     float: left;
-    margin-left: 1em;
+    margin-left: 2.5em;
     margin-top: -.6em;
     
 }
 .bill{
     float:left;
-    margin-left: .5em;
-    margin-top: 1.1em;
+    margin-left: -4.8em;
+    margin-top: 3.6em;
 }
 .Gmail{
-    float: center;  
-    margin-right: 5em;
-    margin-top: .5em;
+    float: right;  
+    margin-right: 2.5em;
+    margin-top: -.05em;
+    margin-left: -.7em;
 }
 .bob{
     float: center;
-    margin-left: 17em;
-    margin-top: -3.1em;
-    padding-bottom: .28em;
+    margin-left: 11em;
+    margin-top: 3.5em;
+    padding-bottom: 2em;
 }
 .outro{
     float: center;
     padding: .2em;
     text-align: center;
+    margin-top: -2em;
 }
-}
+
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
@@ -259,48 +271,51 @@ h1 {
     text-align: center;
     font-weight: bold;
     color: white;
+    margin-top: .5em;
+    
 
 }
 .About{
     border: .5em solid white;
     color: black;
     background-color: transparent;
-    margin-top: -69.42em;
-    margin-left: 1em;
-    margin-right: 12em;
-    padding-right: 2em;
+    margin-top: -64.45em;
+    margin-left: .5em;
+    margin-right: 9em;
 }
 .head{
     text-align: center;
-    margin-left: 1.3em;
+    margin-top: 5em;
     font-weight: bold;
     color: white;
     opacity: 100%;
+    margin-top: 1em;
 }
 .met {
-    width: 8.67em;
+    width: 5em;
     border-radius: 1em;
-    float: left;
-    margin-right: 5em;
-    margin-bottom: 10em;
-    position: relative;
-    top: -4.36em;
-    left: 1.6em;
+    float: center;
+    margin-bottom: 2em;
+    margin-left: 3.5em;
     opacity: 100%;
     border: ridge;
+
   }
 h3{
-    margin-left: 5em;
     text-size-adjust: 1em;
-    margin-bottom: 1em;
+    margin-bottom: .92em;
+    margin-left: 1em;
+    margin-top: -.7em;
+    padding-bottom: .95em;
 }
 .Skills{
     border: .5em solid white;
     color: white;
     text-align: center;
     background-color: transparent;
-    margin-left: 65.5em;
-    margin-right: 1em;
+    margin-left: 15.39em;
+    margin-right: -.6em;
+    margin-bottom: 5.7em;
 
     
 }
@@ -308,10 +323,11 @@ h3{
     text-align: center;
     text-decoration: solid;
     font-weight: bold;
+    margin-top: .1em;
 
 }
 .skill1{
-    width:10em;
+    width:9em;
     height: auto;
 
 }
@@ -359,32 +375,34 @@ skill8{
     color: black;
     text-align: center;
     background-color: transparent;
-    margin-left: 1em;
-    margin-right: 12em;
+    margin-left: .5em;
+    margin-right: 8.99em;
     padding: 2em;
     margin-top: -.5em;
 }
 .Resume{
     width: 2em;  
-    height: auto; 
-    margin-left: -12em;
+    height: auto;
+    margin-left: -1em; 
+    margin-bottom: 1em;
 }
 .continue{
     text-align: center;
     color: white;
     margin-right: 7.6em;
     margin-top: -.30em;
+    margin-bottom: 1em;
 }
 .Projects{
     border: .5em solid white;
     color: white;
     text-align: center;
     background-color: transparent;
-    margin-left: 1em;
-    margin-right: 12em;
-    margin-bottom: 5em;
+    margin-left: .5em;
+    margin-right: -.6em;
+    margin-bottom: 44em;
     margin-top: -.5em;
-    padding-bottom: 15em;
+    padding-bottom: 24em;
 }
 .Project1{
     float: left;
@@ -392,16 +410,16 @@ skill8{
     border-radius: .5em;
     width: 10em;
     height: 10.2em;
-    margin-left: 4.5em;
+    margin-left: .2em;
     padding-bottom: .5em;
 }
 .Project2{
-    float: left;
+    float: right;
     border: .2em solid white;
     border-radius: .5em;
     width: 10em;
     height: 10.2em;
-    margin-left: 4.5em;
+    margin-right: .2em;
     padding-bottom: .5em;
 }
 .up{
@@ -413,8 +431,9 @@ skill8{
     border-radius: .5em;
     width: 10em;
     height: 10.2em;
-    margin-left: 4.5em;
+    margin-left: .2em;
     padding-bottom: .5em;
+    margin-top: .5em;
 }
 .Project4{
     float: right;
@@ -422,52 +441,58 @@ skill8{
     border-radius: .5em;
     width: 10em;
     height: 10.2em;
-    margin-right: 4.5em;
+    margin-right: .2em;
     padding-bottom: .5em;
+    margin-top: .5em;
 }
 
 .Contact{
     border: .5em solid white;
     color: black;
     background-color: transparent;
-    margin-left: 1em;
-    margin-right: 12em;
-    margin-top: -5.5em;
+    margin-left: .5em;
+    margin-right: -.6em;
+    margin-top: -44.5em;
     padding-bottom: 2.8em;
+    margin-bottom: 1em;
 
 }
 .woof{
     text-align: center;
-    margin-right: 5em;
-    color: white
+    float: center;
+    color: white;
+    margin-top: 1em;
+
     
 }
 .Linked{
     float: left;
-    margin-left: 1em;
+    margin-left: 2.5em;
     margin-top: -.6em;
     
 }
 .bill{
     float:left;
-    margin-left: .5em;
-    margin-top: 1.1em;
+    margin-left: -4.8em;
+    margin-top: 3.6em;
 }
 .Gmail{
-    float: center;  
-    margin-right: 5em;
-    margin-top: .5em;
+    float: right;  
+    margin-right: 2.5em;
+    margin-top: -.05em;
+    margin-left: -.7em;
 }
 .bob{
     float: center;
-    margin-left: 17em;
-    margin-top: -3.1em;
-    padding-bottom: .28em;
+    margin-left: 11em;
+    margin-top: 3.5em;
+    padding-bottom: 2em;
 }
 .outro{
     float: center;
     padding: .2em;
     text-align: center;
+    margin-top: -2em;
 }
 }
 
